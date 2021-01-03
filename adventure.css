@@ -1,0 +1,50 @@
+#game-container{
+	width:1200px;
+	height:700px;
+	background-color:lightgray;
+	position:absolute;
+	text-align:center;
+	}
+#title{
+	top:50px;
+	width:1200px;
+	height:50px;
+	background-color:blue;
+}
+
+#description{
+	top:110px;
+	height:50px;
+	width:1200px;
+	background-color:green;
+
+}
+
+
+#game-buttons{
+	position:absolute;
+	top:550px;
+	left:400px;
+}
+
+
+button{
+	width:80px;
+	height:80px;
+
+}
+#button1{
+	left:80px;
+	display:none;
+
+
+}
+#button3{
+	display:none;
+}
+#inventory-item{
+	width:80px;
+	height:80px;
+	display:none;
+
+}
